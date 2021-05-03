@@ -19,4 +19,4 @@ echo Final-value = $EXPR
 #Representing arrays
 a=(11 21 42)
 
-echo ${a[0],a[1]}
+echo ${a[0]},${a[1]}
