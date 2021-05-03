@@ -25,3 +25,6 @@ echo ${a[0]} ${a[1]} ${a[2]}
 # Local variable
 
 echo C=$c
+
+List=$(ls)
+echo List
