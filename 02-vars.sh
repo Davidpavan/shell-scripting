@@ -2,4 +2,4 @@
 
 a=100
 
-echo Variable=$a
+echo Variable_01=$a
