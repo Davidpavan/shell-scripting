@@ -14,4 +14,4 @@ echo "Today date is $DATE"
 
 EXPR=$((42+96/21))
 
-echo Final value = $EXPR
+echo Final-value = $EXPR
