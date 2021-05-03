@@ -21,3 +21,7 @@ a=(11 21 42)
 
 echo ${a[0]} , ${a[1]} , ${a[2]}
 echo ${a[0]} ${a[1]} ${a[2]}
+
+# Local variable
+
+echo C=$c
