@@ -9,3 +9,9 @@ echo Variable_01=$a
 DATE=$(date +%F)
 
 echo "Today date is $DATE"
+
+# Expressions
+
+EXPR=$((42+96/21))
+
+echo Final value = $EXPR
