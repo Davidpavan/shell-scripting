@@ -9,4 +9,4 @@ echo -e "Hai\nBye"
 # Sometimes we need colours to be printed
 # syntax : "\e[colour number m message" and to disable the colour - 0m
 
-echo -e "\e[32mMaking fun of me\e[0m"
+echo -e "\e[36mMaking fun of me\e[0m"
