@@ -2,4 +2,4 @@
 
 a=100
 
-echo A =$a
+echo A=$a
