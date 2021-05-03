@@ -5,4 +5,4 @@ echo 2 = $1
 echo 3 = $2
 echo "* = $*"
 echo "@ = $@"
-echo "# =$#"
+echo "# = $#"
